@@ -1,1 +1,0 @@
-This is Onima's first project!
